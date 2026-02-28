@@ -1,3 +1,6 @@
 "# WPFApp" 
-Day 1: 
+
+
+## Day 1: 
 Setup intial code.
+setup wpf application
